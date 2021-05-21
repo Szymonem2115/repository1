@@ -1,0 +1,60 @@
+body
+{
+	background-color: black;
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	}
+h1
+{
+	font-size: 50
+}
+h2
+{
+	font-size: 32;
+	color: white;
+}
+}
+/* nieodwiedzony link*/
+a:link
+{
+	color: blue;
+}
+/* odwiedzony link*/
+a:visited
+{
+	color: blue;
+}
+/* po najechaniu link*/
+a:hover
+{
+	color: darkblue;
+}
+.img 
+{
+	width: 400px;
+	height: 400px;
+}
+.widderimg
+{
+	width: 700px;
+	height: 300px;
+}
+.applelogo
+{
+	width: 200px;
+	height: 200px;
+}
+.border
+{
+	height: 1px;
+	background: white;
+	
+}
+.d1
+{
+	margin:150px;
+	background:black;
+	padding: 10px;
+}
